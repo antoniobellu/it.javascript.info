@@ -119,4 +119,4 @@ Ce ne sono molti altri. Ovviamente se utilizziamo uno di questi linguaggi, dovre
 
 - JavaScript è stato creato come linguaggio unico per i browser, ma attualmente viene utilizzato con efficacia in molti altri ambienti.
 - Attualmente JavaScript si trova in una posizione unica come linguaggio più diffuso per lo sviluppo web, grazie ad una completa integrazione con HTML/CSS.
-- Ci sono molti linguaggio che possono essere "convertiti" in JavaScript che risolvono certe esigenze. E' fortemente consigliato di leggere brevemente le funzionalità di alcuni di essi, però solo dopo essersi focalizzati su JavaScript.
+- Ci sono molti linguaggi che possono essere "convertiti" in JavaScript che risolvono certe esigenze. E' fortemente consigliato di leggere brevemente le funzionalità di alcuni di essi, però solo dopo essersi focalizzati su JavaScript.
